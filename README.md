@@ -42,3 +42,15 @@
 - Hack Festa 2023 国内1位、世界2位
 - GCI 2023 Winter 修了
 - K-SEC セキュリティウィンタースクール2019修了
+- オセロ市内優勝(2016年)
+
+## リンク
+
+
+<p><a href="https://atcoder.jp/users/shinchan">AtCoder</a></p>
+<p><a href="https://codeforces.com/profile/shinchankosen">Codeforces</a></p>
+<p><a href="https://www.codechef.com/users/shinchankosen">CodeChef</a></p>
+<p><a href="https://shinchankosen.hatenadiary.jp/entry/2023/08/07/012030">作った問題・解説</a></p>
+<p><a href="https://www.kaggle.com/sophiaring">Kaggle</a></p>
+<p><a href="https://shinchankosen.hatenadiary.jp/">はてなブログ</a></p>
+
