@@ -19,7 +19,7 @@
 
 2018年1月頃からAtCoder(shinchan)やCodeforces(shinchankosen)等に、主にC++で参加しています。
 
-- AtCoder Algo Highest Rating 2114 (黄), Heuristic Rating 1668 (青)
+- AtCoder Algo Highest Rating 2144 (黄), Heuristic Rating 1668 (青)
 - Codeforces Highest Rating 2148 (Master)
 - CodeChef Highest Rating 2496 (6-Stars)
 - パソコン甲子園2019 予選17位・もうひとつの本選6位、総合20位
