@@ -21,7 +21,7 @@
 
 - AtCoder Algo Highest Rating 2144 (黄), Heuristic Rating 1668 (青)
 - Codeforces Highest Rating 2148 (Master)
-- CodeChef Highest Rating 2496 (6-Stars)
+- CodeChef Highest Rating 2577 (7-Stars)
 - パソコン甲子園2019 予選17位・もうひとつの本選6位、総合20位
 - ICPC(2020-2021) Asia Yokohama Regional 25位
 - DDCC2022 本選9位
