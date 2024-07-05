@@ -23,6 +23,7 @@
 - PG BATTLE 2023 大学＆大学院、高専、専門学校の部 8位
 - ICPC(2023-2024) Asia Yokohama Regional 20位
 - ICPC(2023-2024) Asia Pacific Championship 40位
+- ICPC(2024) 国内予選 5位
 
 
 ## 研究
