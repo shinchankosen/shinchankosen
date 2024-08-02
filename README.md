@@ -25,6 +25,8 @@
 - ICPC(2023-2024) Asia Pacific Championship 40位
 - ICPC(2024) 国内予選 5位
 
+- 第25回課外活動総長賞 優秀賞
+
 
 ## 研究
 
