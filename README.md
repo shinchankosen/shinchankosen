@@ -18,6 +18,7 @@
 - パソコン甲子園2019 予選17位・もうひとつの本選6位、総合20位
 - ICPC(2020-2021) Asia Yokohama Regional 25位
 - DDCC2022 本選9位
+- メルカリ競プロコンテスト2024 オンサイト6位、総合10位
 - Toyota Programming Contest 2023 Spring 予選通過
 - Toyota Programming Contest 2023 Summer (AHC021) 予選通過
 - PG BATTLE 2023 大学＆大学院、高専、専門学校の部 8位
