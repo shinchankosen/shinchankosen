@@ -16,15 +16,19 @@
 - Codeforces Highest Rating 2436 (Grandmaster, 赤)
 - CodeChef Highest Rating 2577 (7-Stars, 赤)
 - パソコン甲子園2019 予選17位・もうひとつの本選6位、総合20位
-- ICPC(2020-2021) Asia Yokohama Regional 25位
 - DDCC2022 本選9位
 - メルカリ競プロコンテスト2024 オンサイト6位、総合10位
 - Toyota Programming Contest 2023 Spring 予選通過
 - Toyota Programming Contest 2023 Summer (AHC021) 予選通過
 - PG BATTLE 2023 大学＆大学院、高専、専門学校の部 8位
-- ICPC(2023-2024) Asia Yokohama Regional 20位
-- ICPC(2023-2024) Asia Pacific Championship 40位
-- ICPC(2024) 国内予選 5位
+
+### ICPC(国際大学対抗プログラミングコンテスト)
+
+- 2020-2021 (チーム名: appeared) 国内予選 31位 -> Asia Yokohama Regional 25位
+- 2021-2022 (チーム名: appeared) 国内予選77位
+- 2022-2023 (チーム名: Chordal_Ring) 国内予選89位
+- 2023-2024 (チーム名: kotamanegi_mijingiri) 国内予選 21位 -> Asia Yokohama Regional 20位 -> Asia Pacific Championship 40位
+- 2024-2025 (チーム名: kotamanegi_hint_kureya) 国内予選 5位 -> Asia Yokohama Regional 12位 -> Asia Pacific Championship 進出見込み
 - 第25回課外活動総長賞 優秀賞
 
 ## 実務経験
