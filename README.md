@@ -63,11 +63,10 @@
 
 ## リンク
 
-
+<p><a href="https://clist.by/coder/shinchan/">CLIST</a></p>
 <p><a href="https://atcoder.jp/users/shinchan">AtCoder</a></p>
 <p><a href="https://codeforces.com/profile/shinchankosen">Codeforces</a></p>
 <p><a href="https://www.codechef.com/users/shinchankosen">CodeChef</a></p>
 <p><a href="https://shinchankosen.hatenadiary.jp/entry/2023/08/07/012030">作った問題・解説</a></p>
-<p><a href="https://www.kaggle.com/sophiaring">Kaggle</a></p>
 <p><a href="https://shinchankosen.hatenadiary.jp/">はてなブログ</a></p>
 
