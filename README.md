@@ -18,7 +18,7 @@
 - 2021-2022 (チーム名: appeared) 国内予選77位
 - 2022-2023 (チーム名: Chordal_Ring) 国内予選89位
 - 2023-2024 (チーム名: kotamanegi_mijingiri) 国内予選 21位 -> Asia Yokohama Regional 20位 -> Asia Pacific Championship 40位
-- 2024-2025 (チーム名: kotamanegi_hint_kureya) 国内予選 5位 -> Asia Yokohama Regional 12位 -> Asia Pacific Championship 進出見込み
+- 2024-2025 (チーム名: kotamanegi_hint_kureya) 国内予選 5位 -> Asia Yokohama Regional 12位 -> Asia Pacific Championship 47位
 - 第25回課外活動総長賞 優秀賞
 
 ## 実務経験
