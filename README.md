@@ -11,6 +11,7 @@
 - Toyota Programming Contest 2023 Spring 予選通過
 - Toyota Programming Contest 2023 Summer (AHC021) 予選通過
 - PG BATTLE 2023 大学＆大学院、高専、専門学校の部 8位
+- 第六回日本最強プログラマー学生選手権 決勝進出
 
 ### ICPC(国際大学対抗プログラミングコンテスト)
 
